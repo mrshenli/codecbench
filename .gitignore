@@ -1,0 +1,10 @@
+**/.DS_Store
+
+jcodec/videos/*
+jcodec/target/*
+
+# Ignore IntelliJ files.
+.idea/
+*.iml
+*.ipr
+*.iws
